@@ -1,0 +1,4 @@
+1. Migration
+2. Model
+3. Controller
+4. Route -> di api.php -> ngasih auth disini (middleware)
